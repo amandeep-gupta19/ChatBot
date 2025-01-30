@@ -1,0 +1,8 @@
+faiss-cpu
+flask
+flask-restful
+openai
+numpy
+pickle
+os
+scikit-learn
